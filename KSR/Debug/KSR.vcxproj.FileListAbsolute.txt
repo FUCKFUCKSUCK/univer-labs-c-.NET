@@ -1,0 +1,6 @@
+C:\Users\student-ct29\source\repos\KSR\KSR\Debug\KSR.vcxproj.AssemblyReference.cache
+C:\Users\student-ct29\source\repos\KSR\KSR\Debug\KSR.MyForm.resources
+C:\Users\student-ct29\source\repos\KSR\KSR\Debug\KSR.vcxproj.GenerateResource.cache
+C:\Users\Максим\Desktop\кср\KSR\Debug\KSR.vcxproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\кср\KSR\Debug\KSR.MyForm.resources
+C:\Users\Максим\Desktop\кср\KSR\Debug\KSR.vcxproj.GenerateResource.cache
